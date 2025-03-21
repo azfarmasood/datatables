@@ -100,7 +100,7 @@ The analysis output includes:
 
 ## Authors
 
-- Afnan and Azfar
+- Afnan Siddiqui and Azfar Masood
 
 ## License
 
