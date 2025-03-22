@@ -12,7 +12,6 @@ from .app.controllers.exctract_data_from_tables import extract_table_data
 from .app.controllers.cleaning_data import clean_data
 from .app.controllers.data_analysis import analyze_data
 from .app.controllers.save_to_csv import save_to_csv
-from .app.models.analyse_data_models import AnalysisResults
 
 # Expose main function
 from .app.main import main

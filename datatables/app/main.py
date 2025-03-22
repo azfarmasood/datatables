@@ -1,9 +1,9 @@
 import os  
-from controllers.scrap_tables_data import fetch_webpage
-from controllers.exctract_data_from_tables import extract_table_data
-from controllers.cleaning_data import clean_data
-from controllers.data_analysis import analyze_data
-from controllers.save_to_csv import save_to_csv
+from datatables.app.controllers.scrap_tables_data import fetch_webpage
+from datatables.app.controllers.exctract_data_from_tables import extract_table_data
+from datatables.app.controllers.cleaning_data import clean_data
+from datatables.app.controllers.data_analysis import analyze_data
+from datatables.app.controllers.save_to_csv import save_to_csv
 
 def main():
     """

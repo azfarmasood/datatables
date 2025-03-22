@@ -1,4 +1,4 @@
-from models.analyse_data_models import AnalysisResults
+from ..models.analyse_data_models import AnalysisResults
 from typing import cast
 
 def analyze_data(df):

@@ -39,7 +39,11 @@ poetry shell
 
 2. Run the main script:
 ```bash
-python -m datatables.app.main
+poetry run python -m datatables.app.main
+
+OR
+
+poetry run python datatables\app\main.py
 ```
 
 The script will:
@@ -100,7 +104,8 @@ The analysis output includes:
 
 ## Authors
 
-- Afnan and Azfar
+- Azfar Masood
+- Afnan Siddiqui
 
 ## License
 
