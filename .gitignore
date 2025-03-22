@@ -1,3 +1,4 @@
 *.vscode
 *.mypy.ini
 *.poetry.lock
+*.__pycache__
