@@ -104,8 +104,7 @@ The analysis output includes:
 
 ## Authors
 
-- Azfar Masood
-- Afnan Siddiqui
+- Afnan and Azfar
 
 ## License
 
